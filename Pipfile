@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow = "==2.13"
+
+[dev-packages]
+jupyter = "*"
+jupyterlab = "*"
+pytest = "*"
+black = "*"
+sphinx = "*"
+sphinx-rtd-theme = "*"
+myst-parser = "*"
+flake8 = "*"
+tornado = ">=6.4.2"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.6"
