@@ -33,7 +33,7 @@ Conducted using a single V100 NVIDIA GPU.**
 ## Install
 
 ```
-$ pip install prodigyprotein/prodigyprotein-1.0.0.tar.gz
+$ pip install dist/prodigyprotein-1.0.0.tar.gz
 ```
 
 ## Usage
